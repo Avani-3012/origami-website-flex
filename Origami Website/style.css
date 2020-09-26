@@ -1,0 +1,25 @@
+h1{ 
+    color:blue
+
+}
+h2{
+    color:chartreuse
+}
+.item2{
+    
+    background-color: blanchedalmond;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+
+   
+}
+.item3{
+    background-color: chartreuse;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
